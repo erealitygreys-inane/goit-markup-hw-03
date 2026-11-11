@@ -26,6 +26,7 @@
   color: #ffffff;
   background-color: #4d5ae5;
   cursor: pointer;
+  border-radius: 4px;
 }
 
 .hero-action:hover,
